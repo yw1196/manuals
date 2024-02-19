@@ -1,1 +1,2 @@
 Colorless green idea
+https://git-scm.com/book/ko/v2
